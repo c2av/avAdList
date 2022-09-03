@@ -1,0 +1,36 @@
+7mmtv.tv##section.latest-korean-section.video-introduction-section:nth-child(7) > div.container > div.video-introduction-row > div.video-introduction-left-row:first-child > div.video-introduction-images-row > a:nth-child(4) > img
+bbs.qianmo.me###guide > div.imui_ad:nth-child(4)
+bbs.qianmo.me###guide > div.imui_ad:nth-child(5)
+bbs.qianmo.me###viewthread > div.postitle.p10.b_f.bo_bl.bo_tl.mt10:nth-child(9)
+bbs.qianmo.me###viewthread > div.postitle.p10.b_f.bo_bl.bo_tl.mt10:nth-child(8)
+bbs.qianmo.me###viewthread > div.postitle.p10.b_f.bo_bl.bo_tl.mt10:nth-child(10)
+bbs.qianmo.me###guide > div.imui_ad:nth-child(6)
+m.kkkkwu.cc##a:nth-child(11)
+m.kkkkwu.cc###__btm_div__
+m.kkkkwu.cc##a:nth-child(6)
+m.kkkkwu.cc##a:nth-child(7)
+m.kkkkwu.cc##a:nth-child(8)
+m.svipmh.com###sjdb_div_39410 > a:last-child
+m.svipmh.com###zczbgs_div94675
+m.svipmh.com###kmZHSS_i
+m.svipmh.com###sjdb_div_97691
+m.svipmh.com###MqY0z9WNShZlwMZGx6527
+m.svipmh.com###zczbgs_div74417
+m.svipmh.com###MkcJtFtyPDjBeETtG6527
+||d.jbpbox.com^$domain=m.svipmh.com
+||k.cnsayo.com^$domain=m.svipmh.com
+||k.jinxiuzhilv.com^$domain=m.svipmh.com
+||b.aisouk.cn^$domain=m.svipmh.com
+||yels.agecczx.cn^$domain=m.svipmh.com
+||new.xiongzhangad.com^$domain=m.svipmh.com
+diskgirl.com###img_9050
+diskgirl.com###sjdb_img_55495
+diskgirl.com###sjdb_div_76267 > a:last-child
+diskgirl.com###__a_z_1230_39215
+diskgirl.com###sjdb_div_95105
+diskgirl.com###dd_54511 > div
+asianclub.tv#@%#//scriptlet("prevent-window-open")
+asianclub.tv#@%#//scriptlet("prevent-addEventListener", "click", "window.open")
+asianclub.tv#@%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('a.fakeplaybutton[href]'); if(el) { el.removeAttribute('href'); } }, 500); });
+@@||asianclub.tv$third-party,cookie
+dm1lc3M6Ly9leUp5WlcxaGNtc2lPaUxsaWFua3Zabm10WUhwaDQvdnZKb3lPVFV1T0RKSFFpSXNJblI1Y0dVaU9tNTFiR3dzSW1Ga1pDSTZJbkpwWTJoMk1uSmhlUzV2Ym14cGJtVWlMQ0p3YjNKMElqb3hNREE0Tml3aWFXUWlPaUl4TkRrME9XUTVaQzFpT0RJM0xUTXdOVGd0T1RNeVl5MHhNREEzWldaaE9UTTJaRElpTENKdVpYUWlPaUowWTNBaUxDSmhhV1FpT2pBc0luQnpJam9pNVltcDVMMlo1cldCNlllUDc3eWFNamsxTGpneVIwSWlmUT09CnZtZXNzOi8vZXlKeVpXMWhjbXNpT2lMb3Y0Zm1uSi9tbDdicGw3VHZ2Sm95TURJd0xUQTBMVE13SWl3aWRIbHdaU0k2Ym5Wc2JDd2lZV1JrSWpvaWNtbGphSFl5Y21GNUxtOXViR2x1WlNJc0luQnZjblFpT2pFd01EZzJMQ0pwWkNJNklqRTBPVFE1WkRsa0xXSTRNamN0TXpBMU9DMDVNekpqTFRFd01EZGxabUU1TXpaa01pSXNJbTVsZENJNkluUmpjQ0lzSW1GcFpDSTZNQ3dpY0hNaU9pTG92NGZtbkovbWw3YnBsN1R2dkpveU1ESXdMVEEwTFRNd0luMD0Kdm1lc3M6Ly9leUpvYjNOMElqb2llR2x1YW5CaGJIa3pMbkpwWTJoMk1uSmhlUzVqYnlJc0luQmhkR2dpT2lJdmRqSnlZWGtpTENKMGJITWlPaUlpTENKMlpYSnBabmxmWTJWeWRDSTZkSEoxWlN3aVlXUmtJam9pY3pFdWMyZ3VlR3hrWkc1ekxuaDVlaUlzSW5CdmNuUWlPakUxT1RZeExDSmhhV1FpT2pFc0ltNWxkQ0k2SW5keklpd2lhR1ZoWkdWeVZIbHdaU0k2SW01dmJtVWlMQ0oySWpvaU1pSXNJblI1Y0dVaU9pSnViMjVsSWl3aWNITWlPaUxtbHJEbGlxRGxuYUVnSUNCQlRGa3pmT1M0aXVhMXQrUzRyZWk5ckNJc0luSmxiV0Z5YXlJNkl1YVdzT1dLb09XZG9TQWdJRUZNV1ROODVMaUs1clczNUxpdDZMMnNJaXdpYVdRaU9pSXhORGswT1dRNVpDMWlPREkzTFRNd05UZ3RPVE15WXkweE1EQTNaV1poT1RNMlpESWlMQ0pqYkdGemN5STZNbjA9CnZtZXNzOi8vZXlKb2IzTjBJam9pZUdsdWFuQmhiSGt1Y21samFIWXljbUY1TG1Odklpd2ljR0YwYUNJNklpOTJNbkpoZVNJc0luUnNjeUk2SWlJc0luWmxjbWxtZVY5alpYSjBJanAwY25WbExDSmhaR1FpT2lKek1TNXphQzU0YkdSa2JuTXVlSGw2SWl3aWNHOXlkQ0k2TVRFeE56RXNJbUZwWkNJNk1Td2libVYwSWpvaWQzTWlMQ0pvWldGa
